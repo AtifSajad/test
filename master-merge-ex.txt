@@ -3,3 +3,4 @@ this file is conflict file in
 =======
 this file is in conflict branch
 >>>>>>> conflict-branch
+this line is eddited for rebasing example...
